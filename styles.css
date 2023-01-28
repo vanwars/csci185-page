@@ -1,16 +1,17 @@
 /* I have changed some of this! :~) */
 * {
     box-sizing: border-box;
-    background-image: url(https://i.imgur.com/TeFLr6M.jpeg);
+    background-color: seashell;
 
 
 }
 
 h1 {
-    position: left;
-    background-color: rgb(223, 149, 52);
+    position: right;
+    background-color:thistle;
     margin: 0px;
     box-shadow: gold;
+    font-family:'Courier New', Courier, monospace;
 }
 
 body {
