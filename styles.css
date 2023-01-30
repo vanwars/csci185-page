@@ -18,6 +18,10 @@ h1 {
     font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     color: beige;
     text-decoration: underline;
+    font-size: 30px;
+}
+h1:hover {
+    color: lightcyan;
 }
 
 body {
