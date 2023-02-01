@@ -17,7 +17,7 @@ h1 {
     padding: 20px 0px;
     box-shadow: gold;
     font-family: 'Unbounded', cursive;
-    color: beige;
+    color: rgb(250, 231, 196);
     text-decoration: none;
     font-size: 30px;
     transition: all 0.8s ease-out;
@@ -28,6 +28,7 @@ h1:hover {
 
 h2 {
     font-family: 'Bebas Neue', cursive;
+    font-size: 32px;
 
 }
 
