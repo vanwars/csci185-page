@@ -30,7 +30,15 @@ h1:hover {
 h2 {
     font-family: 'Bebas Neue', cursive;
     font-size: 32px;
+    text-decoration: none;
 
+}
+
+a {
+    text-decoration: none;
+}
+a:hover {
+    text-decoration: underline;
 }
 
 body {
