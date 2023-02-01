@@ -1,4 +1,5 @@
 /* I have changed some of this! :~) */
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Poiret+One&family=Unbounded&display=swap');
 * {
     box-sizing: border-box;
     background-color: seashell;
@@ -15,20 +16,27 @@ h1 {
     margin-right: 250px;
     padding: 20px 0px;
     box-shadow: gold;
-    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-family: 'Unbounded', cursive;
     color: beige;
-    text-decoration: underline;
+    text-decoration: none;
     font-size: 30px;
+    transition: all 0.8s ease-out;
 }
 h1:hover {
     color: lightcyan;
+}
+
+h2 {
+    font-family: 'Bebas Neue', cursive;
+
 }
 
 body {
     position: center;
     margin-left: 500px;
     padding: 0px;
-    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
+    font-family: 'Poiret One', cursive;
+
 }
 
 p, a, li {

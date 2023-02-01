@@ -40,12 +40,16 @@ div {
    text-decoration: none;
    padding: 5px 10px;
    display: inline-block;
+
+   transition: all 0.3s ease-out;
 }
 
 #demo1 a:hover,
 #demo1 a:focus {
    color: #333;
    background-color: #fff;
+   margin-left: 10px;
+   
 }
 
 
@@ -117,4 +121,6 @@ div {
 }
 #demo5 div:hover {
     border-radius: 100px;
+    transform: rotate(90deg);
+    
 }
