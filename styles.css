@@ -1,5 +1,6 @@
 /* I have changed some of this! :~) */
 @import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Poiret+One&family=Unbounded&display=swap');
+@import url('https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.1/css/all.min.css');
 * {
     box-sizing: border-box;
     background-color: seashell;
