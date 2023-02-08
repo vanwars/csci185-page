@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Unbounded&display=swap');
+
+html {
+    scroll-behavior: smooth;
+}
+
+body * {
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0;
+}
+
+h1 {
+    font-family: unbounded, cursive;
+}
+
+h2 {
+    font-family: unbounded, cursive;
+}
+/* create additional rules below:  */
