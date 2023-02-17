@@ -1,3 +1,29 @@
 body {
     font-family: Arial, Helvetica, sans-serif;
 }
+
+main {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    padding: 10px;
+    align-items: center;
+    column-gap: 20px;
+    row-gap: 20px;
+}
+
+.card {
+    border: black solid 1px;
+    align-items: center;
+    padding: 5px;
+}
+
+section {
+    display: grid;
+    grid-template-columns: auto 165px;
+    /* margin: 20px; */
+}
+
+img {
+    grid-column-start: 2;
+    
+}
